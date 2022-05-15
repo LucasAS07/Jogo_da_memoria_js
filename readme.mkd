@@ -1,0 +1,5 @@
+# Jogo da memoria
+
+## Pojeto criado para fins de aprendizado da linguagem java script 
+
+Lucas Rodrigues de Oliveira
